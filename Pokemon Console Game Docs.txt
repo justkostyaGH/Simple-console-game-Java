@@ -1,0 +1,8 @@
+This is docs about my first little project in Java
+This is small and simple console game. You need to defeat enemy's pokemon. You can hit him with normal attack and heavy attack and also heal your pokemon. Enemy's pokemon can do same things. Normal attack = 4 + 2*level and need 10 mana, Heavy attack = normal attack * 3 and need 30 mana. You can heal 40% of your pokemon current hp with 15 mana. Enemy's pokemon stats are always random.
+Names - [Eevee, Bulbazavr, Charizard, Squirtle]
+Level - 1-5
+Hp - 10-30
+Damage(Normal attack) - 1-7
+Mana - 15-50
+That's all i guess
